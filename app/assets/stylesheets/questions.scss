@@ -1,0 +1,30 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body {
+  font-family: Whyte, sans-serif;
+}
+h1 {
+  font-size: 54px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 22px;
+}
+.coach_one{
+  color: gray;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 12px;
+}
+.answer {
+  background-color: rgba(151, 209, 63, 0.705);
+  padding: 20px;
+  border-left: 5px solid grey;
+  margin-left: 30px;
+  width: 360px;
+  border-radius: 12px;
+}
